@@ -1,0 +1,4 @@
+﻿  源.c
+  源.cpp
+x64\Debug\源.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  洛谷__评等级（结构体）.vcxproj -> D:\Test-code\VS\洛谷\函数与结构体\洛谷__评等级（结构体）\x64\Debug\洛谷__评等级（结构体）.exe
